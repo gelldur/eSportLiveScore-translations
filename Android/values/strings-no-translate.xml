@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+	<string name="game.name.CsGo" >CS GO</string >
+	<string name="game.name.Dota2" >DOTA 2</string >
+	<string name="game.name.Hearthstone" >Hearthstone</string >
+	<string name="game.name.Hots" >Heroes of The Storm</string >
+	<string name="game.name.LoL" >League of Legends</string >
+	<string name="game.name.Starcraft2" >Starcraft</string >
+</resources >

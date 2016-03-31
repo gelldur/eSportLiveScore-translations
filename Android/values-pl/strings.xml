@@ -1,37 +1,28 @@
 <resources >
-	<string name="gameSoccer" >Piłka Nożna</string >
-	<string name="gameHockey" >Hokej</string >
-	<string name="gameBasketball" >Koszykówka</string >
-	<string name="gameTennis" >Tenis</string >
-
+	<string name="action_send" >Wyślij</string >
+	<string name="add_favorite" >Dodane do ulubionych</string >
 	<string name="drawer_close" >Zamknij</string >
 	<string name="drawer_open" >Otwórz</string >
-	<string name="yesterday" >Wczoraj</string >
+	<string name="error_connect" >Nie udało się połączyć</string >
+	<string name="favorites" >Ulubione</string >
+	<string name="gameBasketball" >Koszykówka</string >
+	<string name="gameHockey" >Hokej</string >
+	<string name="gameSoccer" >Piłka Nożna</string >
+	<string name="gameTennis" >Tenis</string >
+	<string name="login" >Zaloguj</string >
+	<string name="lost_count" >Przegrane:</string >
+	<string name="matches_count" >Meczów:</string >
+	<string name="more" >Więcej (%1$d)</string >
+	<string name="notification_settings" >Ustawienia powiadomień</string >
+	<string name="overall" >Ogólnie</string >
+	<string name="prompt_message" >Wiadomość</string >
+	<string name="register" >Zarejestruj</string >
+	<string name="remove_favorite" >Usunięte z ulubionych</string >
+	<string name="sending" >Wysyłanie...</string >
+	<string name="settings" >Ustawienia</string >
 	<string name="today" >Dziś</string >
 	<string name="tomorrow" >Jutro</string >
-	<string name="favorites" >Ulubione</string >
-	<string name="remove_favorite" >Usunięte z ulubionych</string >
-	<string name="add_favorite" >Dodane do ulubionych</string >
-	<string name="settings" >Ustawienia</string >
-
-	<string name="action_send" >Wyślij</string >
-	<string name="prompt_message" >Wiadomość</string >
-
-	<string name="error_connect" >Nie udało się połączyć</string >
-
-	<string name="register" >Zarejestruj</string >
-	<string name="login" >Zaloguj</string >
-	<string name="sending" >Wysyłanie...</string >
-	<string name="notification_settings" >Ustawienia powiadomień</string >
-	<string name="half" >Połowa</string >
-	<string name="quarter" >Kwarta</string >
-	<string name="tierce" >Tercja</string >
-	<string name="overall" >Ogólnie</string >
-
-	<string name="matches_count" >Meczów:</string >
-	<string name="win_ratio_count" >Współczynnik wygranych:</string >
 	<string name="win_count" >Wygrane:</string >
-	<string name="lost_count" >Przegrane:</string >
-	<string name="more" >Więcej (%1$d)</string >
-
+	<string name="win_ratio_count" >Współczynnik wygranych:</string >
+	<string name="yesterday" >Wczoraj</string >
 </resources >
