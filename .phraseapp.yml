@@ -3,9 +3,9 @@ phraseapp:
   file_format: "xml"
   push:
     sources:
-    - file: "./res/values/strings.xml"
-    - file: "./res/values-pl/strings.xml"
+    - file: "./Android/values/strings.xml"
+    - file: "./Android/values-pl/strings.xml"
   pull:
     targets:
-    - file: "./res/values/strings.xml"
-    - file: "./res/values-pl/strings.xml"
+    - file: "./Android/values/strings.xml"
+    - file: "./Android/values-pl/strings.xml"
