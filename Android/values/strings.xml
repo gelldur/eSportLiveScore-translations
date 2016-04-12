@@ -1,17 +1,13 @@
-<resources >
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" >
 	<string name="action_send" >Send</string >
 	<string name="add_favorite" >Added to favorites</string >
 	<string name="all_filter" >All</string >
 	<string name="cancel" >Cancel</string >
-	<string name="deaths_row" >D</string >
 	<string name="do_it" >Let\'s do it</string >
 	<string name="done" >DONE</string >
 	<string name="dont_show_this_again" >Don\'t show this again</string >
 	<string name="drawer_close" >Close</string >
 	<string name="drawer_open" >Open</string >
-	<string name="e_sports" >E-sports</string >
-	<string name="email" >E-mail:</string >
-	<string name="email_hint" >e-mail</string >
 	<string name="email_or_username" >e-mail or username</string >
 	<string name="error" >Error:</string >
 	<string name="error_connect" >Failed to connect</string >
@@ -22,14 +18,11 @@
 	<string name="gameHockey" >Hockey</string >
 	<string name="gameSoccer" >Soccer</string >
 	<string name="gameTennis" >Tennis</string >
-	<string name="head_to_head" >Head-To-Head</string >
-	<string name="kills_row" >K</string >
 	<string name="last_matches" >Last matches</string >
 	<string name="later" >Later</string >
 	<string name="live_filter" >Live</string >
 	<string name="loading" >Loading</string >
 	<string name="login" >Login</string >
-	<string name="login_field" >Login:</string >
 	<string name="lost_count" >Lost:</string >
 	<string name="match_not_found" >Match not found :(</string >
 	<string name="matches_count" >Matches:</string >
@@ -44,7 +37,7 @@
 	<string name="overall" >Overall</string >
 	<string name="password" >Password:</string >
 	<string name="password_hint" >password</string >
-	<string name="player_name_row" >Name</string >
+	<string name="player_name_row" translatable="false" >Name</string >
 	<string name="please_update_app" >Please update application</string >
 	<string name="prompt_message" >Message</string >
 	<string name="quit" >Quit</string >
@@ -68,7 +61,6 @@
 	<string name="tournament" >Tournament</string >
 	<string name="upcoming_filter" >Upcoming</string >
 	<string name="username_hint" >username</string >
-	<string name="vs" >VS</string >
 	<string name="win_count" >Won:</string >
 	<string name="win_ratio_count" >Win ratio:</string >
 	<string name="yesterday" >Yesterday</string >
