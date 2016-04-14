@@ -2,7 +2,9 @@
 	<string name="action_send" >Wyślij</string >
 	<string name="add_favorite" >Dodane do ulubionych</string >
 	<string name="all_filter" >Wszystkie</string >
+	<string name="app_version" >Wersja aplikacji:</string >
 	<string name="cancel" >Anuluj</string >
+	<string name="contact_optional" >Kontakt (opcjonalne)</string >
 	<string name="do_it" >Aktualizuj</string >
 	<string name="done" >ZAPISZ</string >
 	<string name="dont_show_this_again" >Nie pokazuj tego ponownie</string >
@@ -13,6 +15,7 @@
 	<string name="error_connect" >Nie udało się połączyć</string >
 	<string name="favorites" >Ulubione</string >
 	<string name="feedback" >Opinia</string >
+	<string name="feel_free_to_contact_us_on_info_esportlivescore_com" >W razie wypadku napisz do nas: info@esportlivescore.com</string >
 	<string name="finished_filter" >Zakończone</string >
 	<string name="gameBasketball" >Koszykówka</string >
 	<string name="gameHockey" >Hokej</string >
@@ -47,6 +50,7 @@
 	<string name="repeat_password_hint" >powtórz hasło</string >
 	<string name="score_details" >Szczegóły wyników</string >
 	<string name="search" >Szukaj</string >
+	<string name="send_by_email" >Wyślij e-mail</string >
 	<string name="sending" >Wysyłanie...</string >
 	<string name="settings" >Ustawienia</string >
 	<string name="shure_quit" >Czy jesteś pewien, że chcesz wyjść?</string >
@@ -60,7 +64,9 @@
 	<string name="tournament" >Turniej</string >
 	<string name="upcoming_filter" >Nadchodzące</string >
 	<string name="username_hint" >nazwa użytkownika</string >
+	<string name="what_we_can_improve_or_change" >Co możemy ulepszyć lub zmienić?</string >
 	<string name="win_count" >Wygrane:</string >
 	<string name="win_ratio_count" >Współczynnik wygranych:</string >
+	<string name="write_here_your_feedback" >Napisz swoje sugestie</string >
 	<string name="yesterday" >Wczoraj</string >
 </resources >

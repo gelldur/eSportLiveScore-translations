@@ -14,4 +14,5 @@
 	<string name="kills_row" translatable="false" >K</string >
 	<string name="login_field" translatable="false" >Login:</string >
 	<string name="vs" translatable="false" >VS</string >
+	<string name="example_email_example_com" translatable="false" >example-email@example.com</string >
 </resources >
