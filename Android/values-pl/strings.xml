@@ -28,6 +28,7 @@
 	<string name="login" >Zaloguj</string >
 	<string name="lost_count" >Przegrane:</string >
 	<string name="match_not_found" >Mecz nie znaleziony :(</string >
+	<string name="matches" >mecze</string >
 	<string name="matches_count" >Meczów:</string >
 	<string name="more" >Więcej (%1$d)</string >
 	<string name="must_update_app" >Musisz zaktualizować aplikację</string >

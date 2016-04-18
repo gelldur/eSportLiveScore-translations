@@ -28,6 +28,7 @@
 	<string name="login" >Login</string >
 	<string name="lost_count" >Lost:</string >
 	<string name="match_not_found" >Match not found :(</string >
+	<string name="matches" >matches</string >
 	<string name="matches_count" >Matches:</string >
 	<string name="more" >More (%1$d)</string >
 	<string name="must_update_app" >You have to update application</string >
