@@ -4,6 +4,7 @@
 	<string name="all_filter" >Wszystkie</string >
 	<string name="app_version" >Wersja aplikacji:</string >
 	<string name="cancel" >Anuluj</string >
+	<string name="click_star" >Kliknij *</string >
 	<string name="contact_optional" >Kontakt (opcjonalne)</string >
 	<string name="do_it" >Aktualizuj</string >
 	<string name="done" >ZAPISZ</string >
@@ -58,6 +59,7 @@
 	<string name="sorry_no_matches" >Przepraszamy brak meczów</string >
 	<string name="team_stats" >Statystyki drużyn</string >
 	<string name="thx_4_feedback" >Dziękujemy za opinię!</string >
+	<string name="to_see_in_favorites" >aby dodać do ulubionych</string >
 	<string name="toast_error" >Coś poszło nie tak</string >
 	<string name="today" >Dziś</string >
 	<string name="tomorrow" >Jutro</string >

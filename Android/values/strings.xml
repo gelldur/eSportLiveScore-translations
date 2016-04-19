@@ -4,6 +4,7 @@
 	<string name="all_filter" >All</string >
 	<string name="app_version" >App version:</string >
 	<string name="cancel" >Cancel</string >
+	<string name="click_star" >Click *</string >
 	<string name="contact_optional" >Contact (optional)</string >
 	<string name="do_it" >Let\'s do it</string >
 	<string name="done" >DONE</string >
@@ -59,6 +60,7 @@
 	<string name="sorry_no_matches" >Sorry no matches</string >
 	<string name="team_stats" >Team stats</string >
 	<string name="thx_4_feedback" >Thanks for your feedback!</string >
+	<string name="to_see_in_favorites" >to see in favorites</string >
 	<string name="toast_error" >Something wen\'t wrong</string >
 	<string name="today" >Today</string >
 	<string name="tomorrow" >Tomorrow</string >
