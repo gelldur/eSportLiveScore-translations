@@ -4,6 +4,7 @@
 	<string name="all_filter" >All</string >
 	<string name="app_version" >App version:</string >
 	<string name="cancel" >Cancel</string >
+	<string name="cant_send_gcm_push_notif" >We won\'t be able to notify you about incoming games</string >
 	<string name="click_star" >Click *</string >
 	<string name="contact_optional" >Contact (optional)</string >
 	<string name="do_it" >Let\'s do it</string >
@@ -18,10 +19,16 @@
 	<string name="feedback" >Feedback</string >
 	<string name="feel_free_to_contact_us_on_info_esportlivescore_com" >Feel free to contact us on: info@esportlivescore.com</string >
 	<string name="finished_filter" >Finished</string >
+	<string name="fix" >Fix</string >
 	<string name="gameBasketball" >Basketball</string >
 	<string name="gameHockey" >Hockey</string >
 	<string name="gameSoccer" >Soccer</string >
 	<string name="gameTennis" >Tennis</string >
+	<string name="gcm_service_missing" >Google Play services are not installed on this device</string >
+	<string name="gcm_service_updating" >Google Play services are currently being updated on this device</string >
+	<string name="gcm_service_update_required" >The installed version of Google Play services is out of date</string >
+	<string name="gcm_service_disabled" >The installed version of Google Play services has been disabled on this device</string >
+	<string name="gcm_service_invalid" >Google Play Services is not supported by your device, contact the manufacturer for assistance</string >
 	<string name="last_matches" >Last matches</string >
 	<string name="later" >Later</string >
 	<string name="live_filter" >Live</string >
@@ -29,6 +36,9 @@
 	<string name="login" >Login</string >
 	<string name="lost_count" >Lost:</string >
 	<string name="match_not_found" >Match not found :(</string >
+	<string name="match_starts" >Match starts</string >
+	<string name="match_scored" >Match score</string >
+	<string name="match_finished" >Match finished</string >
 	<string name="matches" >matches</string >
 	<string name="matches_count" >Matches:</string >
 	<string name="more" >More (%1$d)</string >
@@ -37,12 +47,18 @@
 	<string name="no_matches" >No matches :(</string >
 	<string name="not_empty" >Can\'t be empty</string >
 	<string name="notification_settings" >Notifications settings</string >
+	<string name="notif_match_starts" >Notify when match starts</string >
+	<string name="notif_match_score" >Notify when score changes</string >
+	<string name="notif_match_finished" >Notify when match finishes</string >
+	<string name="notif_issue" >Notifications issue</string >
 	<string name="odds" >Odds</string >
+	<string name="ok" >Ok</string >
 	<string name="or" >OR</string >
 	<string name="overall" >Overall</string >
 	<string name="password" >Password:</string >
 	<string name="password_hint" >password</string >
 	<string name="player_name_row" translatable="false" >Name</string >
+	<string name="play_services_unavailable" >Google Play services unavailable</string >
 	<string name="please_update_app" >Please update application</string >
 	<string name="prompt_message" >Message</string >
 	<string name="quit" >Quit</string >
