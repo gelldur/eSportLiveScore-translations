@@ -24,6 +24,16 @@
 	<string name="gameHockey" >Hockey</string >
 	<string name="gameSoccer" >Soccer</string >
 	<string name="gameTennis" >Tennis</string >
+	<string name="gameVolleyball" >Volleyball</string >
+	<string name="gameBoxing" >Boxing</string >
+	<string name="gameSnooker" >Snooker</string >
+	<string name="gameAmericanFootball" >American Football</string >
+	<string name="gameRugby" >Rugby</string >
+	<string name="gameBaseball" >Baseball</string >
+	<string name="gameHandball" >Handball</string >
+	<string name="gameUfcMma" >UFC/MMA</string >
+	<string name="gameBowls" >Bowls</string >
+	<string name="gameCricket" >Cricket</string >
 	<string name="gcm_service_missing" >Google Play services are not installed on this device</string >
 	<string name="gcm_service_updating" >Google Play services are currently being updated on this device</string >
 	<string name="gcm_service_update_required" >The installed version of Google Play services is out of date</string >

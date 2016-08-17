@@ -10,6 +10,10 @@
 	<string name="game.name.Hots" translatable="false" >Heroes of The Storm</string >
 	<string name="game.name.LoL" translatable="false" >League of Legends</string >
 	<string name="game.name.Starcraft2" translatable="false" >Starcraft</string >
+	<string name="game.name.Overwatch" translatable="false" >Overwatch</string >
+	<string name="game.name.WoT" translatable="false" >World of Tanks</string >
+	<string name="game.name.CoD" translatable="false" >Call of Duty</string >
+	<string name="game.name.Smite" translatable="false" >Smite</string >
 	<string name="head_to_head" translatable="false" >Head-To-Head</string >
 	<string name="kills_row" translatable="false" >K</string >
 	<string name="login_field" translatable="false" >Login:</string >
