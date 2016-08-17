@@ -5,6 +5,7 @@
 	<string name="app_version" >App version:</string >
 	<string name="cancel" >Cancel</string >
 	<string name="cant_send_gcm_push_notif" >We won\'t be able to notify you about incoming games</string >
+	<string name="choose_game" >Choose game</string >
 	<string name="click_star" >Click *</string >
 	<string name="contact_optional" >Contact (optional)</string >
 	<string name="do_it" >Let\'s do it</string >

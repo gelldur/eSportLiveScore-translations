@@ -5,6 +5,7 @@
 	<string name="app_version" >Wersja aplikacji:</string >
 	<string name="cancel" >Anuluj</string >
 	<string name="cant_send_gcm_push_notif" >Nie będziemy mogli powiadamiać Cię o nadchodzących grach</string >
+	<string name="choose_game" >Wybierz grę</string >
 	<string name="click_star" >Kliknij *</string >
 	<string name="contact_optional" >Kontakt (opcjonalne)</string >
 	<string name="do_it" >Aktualizuj</string >
